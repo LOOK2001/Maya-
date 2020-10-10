@@ -1,3 +1,4 @@
+# Maya-Study
 [Python-1.1 Python Basic](Python/1.1%20Python%20basic.md)
 
 [Python-1.2 How to install Python for Maya](Python/1.2%20How%20to%20install%20Python%20for%20Maya.md)
