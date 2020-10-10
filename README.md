@@ -1,4 +1,4 @@
-[1.1Python](README.md)
+[1.1Python](Python/1.1-Python.md)
 
 [1.1Python](Python/1.1 Python.md)
 
