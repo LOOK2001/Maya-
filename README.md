@@ -1,7 +1,7 @@
-[1.1Python](Python/1.1-Python.md)
+[Python-1.1 Python Basic](Python/1.1%20Python%20basic.md)
 
-[1.1Python](Python/1.1 Python.md)
+[Python-1.2 How to install Python for Maya](Python/1.2%20How%20to%20install%20Python%20for%20Maya.md)
 
-[1.2Python for Maya](Python/Maya-Study/1.2 Python for Maya.md)
+[Python-1.3.1 Maya Python Commands](Python/1.3.1%20Maya%20Python%20Commands.md)
 
-[1.3Maya Python API](Python/Maya-Study/1.3 Maya Python API.md)
+[Maya-1.1 Maya Basic](Maya/1.1%20Maya%20Basic.md)
